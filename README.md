@@ -38,7 +38,6 @@ After placing our reference we can now start sketching!
 - This is technically all we need to make our mount but to make our design a bit more future proof we can **trim** some lines out and create **fillets** to round our teeth out. We can use the **Trim tool** by **pressing T** or going to **Modify -> Trim** I would trim four lines - the two 12 lines and the interior arc lines of our tooth. You should now have this:
   ![](https://github.com/n1ckd/Workshop-Lesson-Plan/blob/main/pictures/Pasted%20image%2020240416223112.png)
 - We now have the profile of our tooth! We can get ready to extrude the profile by pressing the **Finish Sketch** button in the top right, this will take us out of the sketching tool menu and bring us back to the default design workspace. You should now see a Sketch named 'Sketch 1' under the 'Sketches' menu on the left.
-  ![](https://github.com/n1ckd/Workshop-Lesson-Plan/blob/main/pictures/Pasted%20image%2020240417001514.png)
 ## Extrusions and Making Bodies
  We can now **Extrude** the profile we made in that sketch by **pressing E** or by going to **Create -> Extrude**. After we are in the extrude tool we can select our tooth, this will highlight it blue - then under the distance option in the menu on the right we can enter how long we want the extrusion to be - I'm going with **5mm**. You should now have something like this:
  ![](https://github.com/n1ckd/Workshop-Lesson-Plan/blob/main/pictures/Pasted%20image%2020240417003255.png)
