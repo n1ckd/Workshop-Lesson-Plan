@@ -52,7 +52,8 @@ Now that we have our mounting method finished we can start creating the rest of 
 3. We are going to **make a slot** by going to **Create -> Slot -> Center to Center Slot**. This will let us easily make a slot by clicking where we want one end of our slot to sit, clicking again where we want the opposite end to sit and then moving our mouse outwards to define the width of the slot. 
 4. So we are going to **click the center of our mount first**, moving 90° upwards or enter a value we want for the length of our slot (I'm doing **50mm**) and then finally we are going to enter the thickness of our slot (**10mm**) which will add a radius to the line we just drew and create a slot. 
    You can add **5mm circles** to the ends of your link at the sketch points to a connector or bolt to pass through it allowing our slot to serve as a link! You should now have something like this:
-   ![](https://github.com/n1ckd/Workshop-Lesson-Plan/blob/main/pictures/Pasted%20image%2020240417205108.png)
+![](https://github.com/n1ckd/Workshop-Lesson-Plan/blob/main/pictures/Pasted%20image%2020240417205108.png)
+
 5. You can now extrude this new profile by pressing **finish sketch**, then by going to **Create -> Extrude** or press **E** then click the profile, and enter the extrusion distance (**5mm**) and make sure the **Operation is set to Join not Cut**. You should now have this:
   ![](https://github.com/n1ckd/Workshop-Lesson-Plan/blob/main/pictures/Pasted%20image%2020240417205403.png)
   And that's our Link added! This will allow us to take the rotational force from our servo mount and chain it to another joint or link. Next we are going to look at how we can use what we've learned so far to create spur gear teeth on our mount allowing us to drive additional gears with a single servo. 
