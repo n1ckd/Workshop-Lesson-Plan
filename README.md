@@ -6,7 +6,6 @@ This workshop will cover a variety of modeling techniques in fusion 360 to creat
 
 Insert your reference image or just start from measurements, whatever you prefer - This is gonna be pretty hard to get exact if you are working on something more complicated than this you will likely be able to mind some more robust data sheets or drawing files that you can work off of. So just get it close and work with it off to the side. 
 1. At the top of the toolbar, towards the right side you'll see a little blue picture that says insert under it. Opening that dropdown or pressing the picture will let you use the **place canvas** tool.
-   ![](https://github.com/n1ckd/Workshop-Lesson-Plan/blob/main/pictures/Pasted%20image%2020240416182428.png)
 2. You will be prompted find the file go to **insert from my computer** and find the "servoSplines.png" file you downloaded with the rest of the repository. 
 3. You should now see the canvas tool on the right side of your screen - this is where most tool windows will appear and it will allow you to have a much more granular control over a tool. We now need to select the face we want our canvas to be on - for this project this won't matter a whole lot but I'll be selecting the XZ plane (the bottom one between the red and blue axes). 
 4. After selecting the plane your canvas should appear - this is where you now will scale and position your image to your liking to work off of. the changes I made to mine are as follows:
